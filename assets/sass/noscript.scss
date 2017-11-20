@@ -11,6 +11,12 @@
 
 /* Page */
 
-	body {
-		overflow-x: scroll;
-	}
+body {
+	overflow-x: scroll;
+}
+
+li#next {
+	position: relative;
+	left: 29.5rem;
+	top: 3rem;
+}
